@@ -92,7 +92,7 @@
 /* Type */
 
 	html {
-		font-size: 16pt;
+		font-size: 14pt;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -136,7 +136,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00D3B7;
+			color: #fff;
 		}
 
 	strong, b {
@@ -281,7 +281,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #00D3B7;
+			border-color: #FFFFFF;
 			color: #ff9200;
 		}
 
@@ -787,7 +787,7 @@
 				-ms-transition: opacity 0.5s ease, visibility 0.5s;
 				transition: opacity 0.5s ease, visibility 0.5s;
 				width: 100%;
-				background: #ff9200;
+				background: #352E42;
 				text-align: center;
 			}
 
