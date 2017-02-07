@@ -282,7 +282,7 @@
 		button:hover,
 		.button:hover {
 			border-color: #00D3B7;
-			color: #00D3B7;
+			color: #ff9200;
 		}
 
 			input[type="submit"]:hover:active,
@@ -787,7 +787,7 @@
 				-ms-transition: opacity 0.5s ease, visibility 0.5s;
 				transition: opacity 0.5s ease, visibility 0.5s;
 				width: 100%;
-				background: #fff;
+				background: #ff9200;
 				text-align: center;
 			}
 
